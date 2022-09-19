@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChrisBenka
-- 👀 I’m interested in Reinforcement Learning, information extraction systems, and intelligent,interactive systems that increase a user's task efficiency. 
+- 👀 I’m interested in Reinforcement Learnin  and intelligent,interactive systems that increase a user's research / task efficiency. 
 - 🌱 I’m currently working on adding Dominion, a strategic deck building game, to DeepMind's OpenSpiel framework, and developing state-of-the-art agents for the game. 
-- 💞️ I’m looking to collaborate on projects with a social impact or relevant research projects
 - 📫 How to reach me - email. 
 
 <!---
